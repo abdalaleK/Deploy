@@ -1,9 +1,9 @@
 {
-  "name": "سورس تيبثـون",
-  "description": "سـورس تيبثـون العربـي كامـل ومتطـور • رمضان كريم 🌙 .",
+  "name": "سورس الزعيم",
+  "description": "سـورس الزعيم العربـي كامـل ومتطـور • رمضان كريم 🌙 .",
   "logo": "https://telegra.ph/file/e4c9a3099df26f28e765d.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/Deploy-Tepthon/Deploy",
+  "repository": "https://github.com/abdalaleK/Deploy",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
